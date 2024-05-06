@@ -441,6 +441,7 @@ h6 {
   color: #6f6f6f;
   margin: 10px 0 0 0;
   font-size: 22px;
+  text-align: center;
 }
 
 #hero .btn-about {
@@ -590,11 +591,13 @@ section {
   font-weight: 700;
   font-size: 26px;
   color: #555555;
+  text-align: center;
 }
 
 .about .content ul {
   list-style: none;
   padding: 0;
+  text-align: center;
 }
 
 .about .content ul li {
