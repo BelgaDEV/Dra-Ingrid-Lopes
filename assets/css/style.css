@@ -593,6 +593,9 @@ section {
   color: #555555;
   text-align: center;
 }
+.fst-italic {
+  text-align: center;
+}
 
 .about .content ul {
   list-style: none;
